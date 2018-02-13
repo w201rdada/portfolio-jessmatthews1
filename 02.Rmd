@@ -1,22 +1,19 @@
-Reading books to stay awake: Qualitative predictors of public company performance 
+##Automating the pathway to gold: sales prep dashboard
 
-Keywords {NLP, annual report, industry analysis, 10-K}
+Keywords {dashboard, annual report, sales, 10-K, automation, call prep}
 
-Problem: The qualitative data in annual reports is costly and time consuming to review. 
-The performance of public companies is largely considered in terms of the quantitative data in annual reports.  The qualitative context that makes up the bulk of the report is largely ignored and poured over only by industry-specific analysts.  Analysts have spent thousands of hours working in the industry and spend countless additional hours parsing the text to update the view of the competitive landscape and make company specific recommendations.
-
-The time required to interpret and compare reports is a problem for Wall Street firms that employ industry analysts.  More broadly, because of the cost to create this information, it is too expensive and inaccessible for use cases beyond institutional investing.  Lower cost to create could expand use cases to: executives and corporate strategy departments in mid-sized organizations, individual investors, feedback on investor relations performance (e.g. how did your description of company performance differ from peers?) 
+#Detailed research of customer prospects is necassary but costly. 
+Our world class data, insights, and analysts are exstremely valuable in helping HR leaders save time and make better decisions.  Successful sales executives are able to communicate the value of our product for HR leaders in terms of how it supports the customer's mission critical priorities.  Because these priorities are so critical to the company and the exeuctive's sucess, they are connected to executive attention and budget.  However, our most successfull sales people spend more of their time researching company priorities to effectively identify these mission critical priorities. 
     
-Solution:  Natural language processing(NLP) of annual reports in a specific industry may reduce the time it takes for analysts to assess the competitive landscape and a specific company’s response.  
+#A sales prep dashboard can reduce the amount of time sales needs to research their prospects and actually improve the quality of information that they gather. 
+The more that our commercial team understand's their propsects' world the more effective they can be.  This requires three types of specificity: company-, HR-, and personally-specific context. 
 
-The application of NLP could support the following research questions: 
--What are the primary headwinds/tailwinds (or factors) impacting the industry? 
--For each company in the industry, how do they prioritize each factor?
--For key factors, how does each company’s level of investment compare to their amount of qualitative coverage in their report?
+-Company: We provide an overview of what the company does in natural lanuage, how they make money, and the top trends in their industry.
+-HR: We scan annual reports for key HR terms, such as "talent management".  We pull from our proprietary tools to show the job titles that will be hardest to recruit for. 
+-Personal: We pull from LinkedIn and other company websites, how long the person has been in seat and how many years of experience they have.
 
-If we take the telecommunications industry as an example, in a little over a year, assuming net neutrality is repealed, companies will be sharing their plans to address this change in the regulatory environment.  It is likely to still be too early to see a difference in revenue, though there may be some changes in investment.  The description of the opportunity that companies see in the space will be one of the best leading indicators for competitive changes in the industry.  And NLP would allow for easy comparison of how much emphasis each firm is putting on the opportunity. 
+Results are displayed in a company and prospect specific dashboard. 
 
-Impact: There is an opportunity to lower cost to produce industry research while improving quality and expanding access.
-The difference this solution could make starting with analysts is a dramatic reduction in the time it takes to consume new annual reports and update sector analysis.  Further, the solution could provide insights that may not have been detected by reading, as the quantitative assessment of the text would not be colored by a legacy model of how the industry works.
-Beyond the wall street firms, CEOs and small corporate strategy departments and even investor relations team may benefit from access to illuminating research that would otherwise be inaccessible.  
+#A sales prep dashboard can elevate the effectiveness of the sales team while saving time for the most productive sales people.
+If a sales executive supports 20 calls on average a month and spend 90 minutes preparing for each call, the prep dashboard could save more than 200 hours of prep time per sales person per year.  That creates the opportunity for our most successful sales reps to have an additional 200 sales interactions.  For sales reps with less experience, they will learn more quickly how to use research on their calls by having an effective information at their finger tips, dramatically reducing onboarding time.  
 
