@@ -3,16 +3,20 @@
 Keywords {dashboard, annual report, sales, 10-K, automation, call prep}
 
 #Detailed research of customer prospects is necassary but costly. 
-Our world class data, insights, and analysts are exstremely valuable in helping HR leaders save time and make better decisions.  Successful sales executives are able to communicate the value of our product for HR leaders in terms of how it supports the customer's mission critical priorities.  Because these priorities are so critical to the company and the exeuctive's sucess, they are connected to executive attention and budget.  However, our most successfull sales people spend more of their time researching company priorities to effectively identify these mission critical priorities. 
+Our world class data, insights, and analysts are exstremely valuable in helping HR leaders save time and make better decisions.  Successful sales executives are able to communicate the value of our product for HR leaders in terms of how it supports their mission critical priorities.  Because these priorities are so critical to the company and the exeuctive's sucess, they are connected to executive attention and budget.  However, our most successfull sales people spend more of their time researching company priorities to effectively identify these priorities to tailor their conversations to client interests. 
     
 #A sales prep dashboard can reduce the amount of time sales needs to research their prospects and actually improve the quality of information that they gather. 
-The more that our commercial team understand's their propsects' world the more effective they can be.  This requires three types of specificity: company-, HR-, and personally-specific context. 
+The more that our commercial team understand's their propsects' world the more effective they can be.  This requires three types of information: company-, HR-, and personally-specific context. 
 
--Company: We provide an overview of what the company does in natural lanuage, how they make money, and the top trends in their industry.
--HR: We scan annual reports for key HR terms, such as "talent management".  We pull from our proprietary tools to show the job titles that will be hardest to recruit for. 
--Personal: We pull from LinkedIn and other company websites, how long the person has been in seat and how many years of experience they have.
+-Company: We create quiries to pull from APIs the information to provide an overview of what the company does in natural lanuage, how they make money, and the top trends in their industry.  This allows the sales executive to speak to the corporate objectives of the company.  "For example, I noticed that your company has a 10% growth target this year.  How does that impact your annual objectives as the head of recruiting?" 
 
-Results are displayed in a company and prospect specific dashboard. 
+-HR: We use natural lanuage processing (NLP) to scan annual reports for key HR terms, such as "talent management".  We create quiries to pull from our proprietary tools to show the job titles that will be hardest to recruit for. For example, "We hear from other industrial mining companies that filling mineral engineering roles is becoming more challenging.  What are your most challenging talent segements?"
+
+-Personal: We pull from LinkedIn and other company websites, how long the person has been in seat and how many years of experience they have.  This allows the sales executive to speak to the personal value of having access to the product.  For example, "When we work with Heads of HR that are new to an organization but tenured in their career, we usually partner with them on driving execution in their team to solve one or two key challenges." 
+
+Too much information will limit the effectiveness of the tool.  In order to limit the amount of information that is gathered in each category, we start by reviewing the prep and calls of the top sales people.  We will include information on the dashboard only if it is both part of the sales team's prep and is used during their sales conversation.  
+
+Each type of information will be pulled together manually and tested before building out the functionality.  Each type of information will then be built and tested before moving on the next.  This will avoid building an over featured, but unworkable tool.  Results are displayed in a prospect specific dashboard. 
 
 #A sales prep dashboard can elevate the effectiveness of the sales team while saving time for the most productive sales people.
 If a sales executive supports 20 calls on average a month and spend 90 minutes preparing for each call, the prep dashboard could save more than 200 hours of prep time per sales person per year.  That creates the opportunity for our most successful sales reps to have an additional 200 sales interactions.  For sales reps with less experience, they will learn more quickly how to use research on their calls by having an effective information at their finger tips, dramatically reducing onboarding time.  
