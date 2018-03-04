@@ -1,18 +1,20 @@
 # Automating the pathway to gold: sales prep dashboard {#sales-prep-dashboard}
 
 #### Keywords {-}
-dashboard 
-annual report 
-sales 
-10-K 
-automation 
-call prep
+- dashboard 
+- annual report 
+- sales 
+- 10-K 
+- automation 
+- call prep
+- productivity
 
 ## Detailed research of customer prospects is necassary but costly. 
 Our world class data, insights, and analysts are exstremely valuable in helping HR leaders save time and make better decisions.  Successful sales executives are able to communicate the value of our product for HR leaders in terms of how it supports their mission critical priorities.  Because these priorities are so critical to the company and the exeuctive's sucess, they are connected to executive attention and budget.  However, our most successfull sales people spend more of their time researching companies to effectively identify these priorities and tailor their conversations to client interests. 
     
 ## A sales prep dashboard can reduce the amount of time sales representatives need to research their prospects and actually improve the quality of information that they gather. 
 The more that our commercial team understands what is valuable to their propsects the more effective they can be articulating the value of our product.  This requires three types of information: company-, HR-, and personally-specific context. 
+
 
 -Company: We create quiries to pull from APIs (potentially Hoovers or Seeking Alpha) to receive an overview of what the company does in natural lanuage, how they make money, and the top trends in their industry.  This allows the sales executive to speak to the corporate objectives of the company.  "For example, I noticed that your company has a 10% growth target this year.  How does that impact your annual objectives as the head of recruiting?" 
 
