@@ -1,12 +1,20 @@
-##Automating the pathway to gold: sales prep dashboard
+# Automating the pathway to gold: sales prep dashboard {#sales-prep-dashboard}
 
-Keywords {dashboard, annual report, sales, 10-K, automation, call prep}
+#### Keywords {-}
+- dashboard 
+- annual report 
+- sales 
+- 10-K 
+- automation 
+- call prep
+- productivity
 
-#Detailed research of customer prospects is necassary but costly. 
+## Detailed research of customer prospects is necassary but costly. 
 Our world class data, insights, and analysts are exstremely valuable in helping HR leaders save time and make better decisions.  Successful sales executives are able to communicate the value of our product for HR leaders in terms of how it supports their mission critical priorities.  Because these priorities are so critical to the company and the exeuctive's sucess, they are connected to executive attention and budget.  However, our most successfull sales people spend more of their time researching companies to effectively identify these priorities and tailor their conversations to client interests. 
     
-#A sales prep dashboard can reduce the amount of time sales representatives need to research their prospects and actually improve the quality of information that they gather. 
+## A sales prep dashboard can reduce the amount of time sales representatives need to research their prospects and actually improve the quality of information that they gather. 
 The more that our commercial team understands what is valuable to their propsects the more effective they can be articulating the value of our product.  This requires three types of information: company-, HR-, and personally-specific context. 
+
 
 -Company: We create quiries to pull from APIs (potentially Hoovers or Seeking Alpha) to receive an overview of what the company does in natural lanuage, how they make money, and the top trends in their industry.  This allows the sales executive to speak to the corporate objectives of the company.  "For example, I noticed that your company has a 10% growth target this year.  How does that impact your annual objectives as the head of recruiting?" 
 
@@ -18,7 +26,7 @@ Too much information will limit the effectiveness of the tool.  In order to limi
 
 For company, HR, and personal information, each area will be pulled together manually and tested with commercial partners before building out the functionality.  We will then test each area before moving on the next.  This will avoid building an over featured, but unworkable tool.  Results are displayed in a prospect specific dashboard. 
 
-#A sales prep dashboard can elevate the effectiveness of the sales team while saving time for the most productive sales people.
+## A sales prep dashboard can elevate the effectiveness of the sales team while saving time for the most productive sales people.
 If a sales executive supports 20 calls on average a month and spends 90 minutes preparing for each call, the prep dashboard could save more than 200 hours of prep time per sales person per year.  That creates the opportunity for our most successful sales reps to have an additional 100+ sales interactions.  For sales reps with less experience, they will learn more quickly how to use research on their calls by having an effective information at their finger tips, dramatically reducing onboarding time.  
 
 Challenges to executing this project include: managing data dependencies around accessing LinkedIn-like data, the cost to acquire data from third party vendors, the availability of personal profiles especially in emerging markets, and the need to build and test the models for personal value.  While these challenges are real, the potential payoff in sales force productivity is significant.  Iterative testing for practical value will help to manage some of these risks.     
