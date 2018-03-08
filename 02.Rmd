@@ -13,7 +13,7 @@
 Gartner for HR leaders is a subscription-based advisory service that provides data, insights, and access to experts that save executives time and help them make better decisions.  This new product is designed to support the mission critical priorities of HR leaders.   The people who are most successful at selling the product are those who are able to connect the HR leader's priorities to broader cooperate objectives.   Because these priorities are so critical to the company and the executive's success, they are connected to executive attention and budget. Our most successful sales people spend more of their time researching companies to effectively identify these priorities and tailor their conversations to client interests.  They use seeking alpha, set google news alerts, and pull information from multiple internal sources, including our CRM. While this background research is critical, steam-lining it can save the sales team significant time and improve the quality of call prep. 
 
 ![Image of sales-prep-dashboard]
-(portfolio-jessmatthews1/img/Diagram for RDADA.jpg)
+(portfolio-jessmatthews1/img/Diagram_for_RDADA.jpg)
 
 ## A sales prep dashboard can reduce the amount of time sales representatives need to research their prospects and actually improve the quality of information that they gather. 
 The more that our commercial team understands what is valuable to their prospects the more effective they can be articulating the value of our product. This requires three types of information: company-, HR-, and personally-specific context.
