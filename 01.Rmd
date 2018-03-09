@@ -1,7 +1,12 @@
 # Speed reading qualitative assessments of public company performance {#speed-reading}
 
-####Keywords 
-NLP, annual report, industry analysis, 10-K
+
+####Keywords {-}
+- NLP 
+- annual report 
+- industry analysis 
+- 10-K
+
 
 ## The length of annual reports prevents valuable information from being used. 
 The qualitative data in annual reports is costly and time consuming to review. The performance of public companies is largely considered in terms of the quantitative data in annual reports. The qualitative context that makes up the bulk of the report contains can contain revealing information about a company's operations. [@goel_sentiments_2016] However, this information is largely ignored and poured over only by industry-specific analysts at investment firms. Analysts have spent thousands of hours working in the industry and spend countless additional hours parsing the text to update the view of the competitive landscape and make company specific recommendations.
