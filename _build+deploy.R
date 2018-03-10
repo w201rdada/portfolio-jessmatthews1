@@ -17,3 +17,4 @@ getOption("viewer")('/home/rstudio/_book/index.html')
 # script your site will NOT be deployed until you push.
 
 system("bash _deploy.sh",wait=T)
+
