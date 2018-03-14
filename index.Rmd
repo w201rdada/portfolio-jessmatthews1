@@ -24,28 +24,29 @@ writeLines("references.bib")
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
-
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+```{r hello-benji,echo=FALSE,fig.cap='Hello my name is Jess',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1bYicXPttYuI8Pu4KDQvpQE6me4MOoSxu/preview')
 ```
+
 
 ### Abstract of my first cool idea {-}
 
-(ref:abs1) Hi I'm an abstract for your first big idea! I'm also a [text reference](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references), which is a line of text you can reuse in several places. Use me to write a one paragraph abstract and place it in `index.Rmd` as well as under the title of `01.Rmd`. Once defined, you can reuse me simply by writing `(ref:abs1)` where you want this text to go.
+Natural Language Processing can be used to quickly understand industry trends from annual reports.  
+Annual reports are often hundreds of pages long and that information 
+is rarely compared in a systematic way.  That qualitative information can identify strategy changes before they show up in earnings reports.  
 
 (ref:abs1)
 
 ### Abstract of my second cool idea {-}
 
-(ref:abs2) I'm also an abstract! And a text reference! An abstract is all three acts of your story in a tight little package. You may or may not want to give the ending away, but if you think there's a chance an audience will read this and nothing else, you'd better convey your argument here in miniature. People are busy after all, and there's just so much good tv on the Internet these days.
+This idea is based on the observation that B2B sales people who do back ground research to understand their customer's business are more successful.  Reducing the amount of time it takes sales people to do that research, but automating the prep can improve productivity and the quality of preparation.  This idea begins to envision a tool to automate sales preparation to support the sale of research and advisory services to HR executives. 
 
 (ref:abs2)
 
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+I am a product manager at Gartner based in San Francisco.  I am originally from Pennsylvania where I received my BA and MA in Telecommunications Studies.  When not working or studying data science, I enjoy performing improv and seeing music.   
 
 *Updated: `r Sys.Date()`*
