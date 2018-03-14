@@ -20,30 +20,25 @@ writeLines("references.bib")
 # Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello my name is Jess',fig.align='center'}
+```{r hello-benji,echo=FALSE,fig.cap='Big Hello from Jess',fig.align='center'}
 knitr::include_url('https://drive.google.com/file/d/1bYicXPttYuI8Pu4KDQvpQE6me4MOoSxu/preview')
 ```
 
 
-### Abstract of my first cool idea {-}
+### Abstract of speed reading {-}
 
 Natural Language Processing can be used to quickly understand industry trends from annual reports.  
 Annual reports are often hundreds of pages long and that information 
 is rarely compared in a systematic way.  That qualitative information can identify strategy changes before they show up in earnings reports.  
 
-(ref:abs1)
 
-### Abstract of my second cool idea {-}
+### Abstract of sales prep dashboard {-}
 
 This idea is based on the observation that B2B sales people who do back ground research to understand their customer's business are more successful.  Reducing the amount of time it takes sales people to do that research, but automating the prep can improve productivity and the quality of preparation.  This idea begins to envision a tool to automate sales preparation to support the sale of research and advisory services to HR executives. 
 
-(ref:abs2)
 
 ## About the author {-}
 
