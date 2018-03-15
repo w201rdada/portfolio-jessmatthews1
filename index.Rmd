@@ -42,6 +42,6 @@ This idea is based on the observation that B2B sales people who do back ground r
 
 ## About the author {-}
 
-I am a product manager at Gartner based in San Francisco.  I am originally from Pennsylvania where I received my BA and MA in Telecommunications Studies.  When not working or studying data science, I enjoy performing improv and seeing music.   
+I am a product manager at Gartner based in San Francisco.  I am originally from Pennsylvania where I received my BA and MA in Telecommunications Studies at Penn State.  When not working or studying data science, I enjoy performing improv and seeing live music.   
 
 *Updated: `r Sys.Date()`*
